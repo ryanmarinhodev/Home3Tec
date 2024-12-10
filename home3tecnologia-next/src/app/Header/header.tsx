@@ -62,7 +62,7 @@ const Header: React.FC<HeaderProps> = () => {
         <Logo>
           {/* Usando o componente Image corretamente */}
           <Image
-            src={LogoHome3} // Caminho correto para a imagem na pasta public
+            src={LogoHome3}
             alt="Logo home3"
             width={150} // Defina a largura da imagem
             height={150} // Defina a altura da imagem
